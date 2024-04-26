@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+scipy
+openmeteo-requests
+retry-requests
+requests-cache
+
+# Add other libraries you use here
