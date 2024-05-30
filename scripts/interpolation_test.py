@@ -2,7 +2,7 @@
 import unittest
 import pandas as pd
 import numpy as np
-from multi_interp import MultiInterp
+from interpolation import MultiInterp
 
 class InterpTest(unittest.TestCase):
   
