@@ -2,7 +2,7 @@
 import unittest
 from unittest.mock import patch
 import pandas as pd
-from excel_to_dict import excel2dict, dir2dict
+from turbine.scripts.excel_to_dict import excel2dict, dir2dict
 
 class TestExcelToDict(unittest.TestCase):
     

@@ -2,7 +2,7 @@
 import unittest
 import pandas as pd
 import numpy as np
-from interpolation import MultiInterp
+from turbine.scripts.interpolation import MultiInterp
 
 class InterpTest(unittest.TestCase):
   
